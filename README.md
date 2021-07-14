@@ -1,2 +1,2 @@
 # druwan.github.io
-For learning Instagram API
+Landing page used for learning Instagram API
